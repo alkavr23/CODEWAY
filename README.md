@@ -15,3 +15,13 @@ Simple calculator with basic arithmetic operations.User inputs two numbers and a
 Password Generator application
 
 This project aims to create a password generator application using Python,allowing users to specify the length and complexity of the password.
+
+**Task4**
+Weather forecast application using Python
+
+This project will involve retrieving weather data from an API and presenting it in a user-friendly format
+
+**Task 5**
+Quiz Game With python
+
+Quiz game that asks users multiple-choice or fill-in-the-blank questions on a specific topic. 
